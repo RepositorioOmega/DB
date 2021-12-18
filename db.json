@@ -1,39 +1,95 @@
 {
-    "places": [
-{
-    "id": "1",
-    "place_name": "I ❤ CREPE",
-    "adress": "Calle 8va Sur # 38a- 27(Ciudad Montes), Bogotá",
-    "email": "ilovecrepe@correo.com",
-    "imageUrl": "https://dea154aeb528bee620f5-799733fd03b9298a9f65fee6178f3d08.ssl.cf1.rackcdn.com/pix_3_106230_243253287_5d238e801915a.jpg"
-  },
-  {
-    "id": "2",
-    "place_name": "La Puerta Falsa 1",
-    "adress": "Cl. 11 #6-50, Bogotá",
-    "email": "pf@correo.com",
-    "imageUrl": "https://dea154aeb528bee620f5-799733fd03b9298a9f65fee6178f3d08.ssl.cf1.rackcdn.com/pix_3_106230_243253287_5d238e801915a.jpg"
-  },
-  {
-    "id": "3",
-    "place_name": "Antigua Santafé",
-    "adress": "Cl. 11 ##6-20, Bogotá",
-    "email": "as@correo.com",
-    "imageUrl": "https://www.yaamava.com/sites/default/files/2021-09/Hong_Bao_1080x1080_4_0.jpg"
-  },
-  {
-    "id": "4",
-    "place_name": "90calentados",
-    "adress": "Carrera 14 #98-73",
-    "email": "90c@correo.com",
-    "imageUrl": "https://10619-2.s.cdn12.com/rests/original/104_510062021.jpg"
-  },
-  {
-    "id": "5",
-    "place_name": "el corrientazo",
-    "adress": "Cl. 49a #68-87",
-    "email": "cor@correo.com",
-    "imageUrl": "https://dea154aeb528bee620f5-799733fd03b9298a9f65fee6178f3d08.ssl.cf1.rackcdn.com/pix_3_106230_243253287_5d238e801915a.jpg"
-  }
+  "poi": [
+    {
+      "title": "I ❤ CREPE",
+      "description": "Calle 8va Sur # 38a- 27(Ciudad Montes), Bogotá",
+      "schedule":"Lunes-Viernes 3:00pm - 9:00pm",
+      "completedesc": "En este restaurante, sus clientes pueden tomar unas sabrosas tortitas. Su magnífico servicio te hará sentirte especial. Podría ser uno de esos lugares a los que regresar solo para disfrutar de su divina decoración otra vez.",
+      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgukXJnUPZIOXr3ksR44Qx5iiZktsttEoJp6Dk0QpbQo_Md3Al8ZxTbthbEST4je6iia-jSeJQgOQ9rDJ3UyRnBr91vtp2Ks7502tL_r8aeX8Ueb_ecMRLwxWiaCDPXmxeuHMrFPYwoJCdiwXqPyKgy2PQBdGA06YbSBsU1UYaxQHhB5a2iMWlbeIB3Jg=s320",
+      "images":[
+        "https://blogger.googleusercontent.com/img/a/AVvXsEgukXJnUPZIOXr3ksR44Qx5iiZktsttEoJp6Dk0QpbQo_Md3Al8ZxTbthbEST4je6iia-jSeJQgOQ9rDJ3UyRnBr91vtp2Ks7502tL_r8aeX8Ueb_ecMRLwxWiaCDPXmxeuHMrFPYwoJCdiwXqPyKgy2PQBdGA06YbSBsU1UYaxQHhB5a2iMWlbeIB3Jg=s320"
+        ],
+      "punctuation": "9",
+      "latitude":4.60447309246358,
+      "longitude": -74.11415123112766
+    },
+    {
+      "title": "La Puerta Falsa",
+      "description": "Cl. 11 #6-50, Bogotá",
+      "schedule":"Lunes-Domingo 7:00am - 9:00pm",
+      "completedesc": "La Puerta Falsa es un restaurante de tradición que tiene más de un siglo de trayectoria.  Se encuentra ubicado en una casona antigua, con arquitectura típica del Barrio La Candelaria, que permite recordar tiempos pasados.  Sus instalaciones no son grandes, constan de dos pisos, en el primer piso además de la zona de mesas, hay un mostrador en donde se aprecian preparaciones como cocadas que se ofrecen a los visitantes, en el segundo piso hay mesas de madera que van de acuerdo con la decoración del lugar, donde se puede disfrutar de su oferta gastronómica.",
+      "image": "https://dea154aeb528bee620f5-799733fd03b9298a9f65fee6178f3d08.ssl.cf1.rackcdn.com/pix_3_106230_243253287_5d238e801915a.jpg",
+      "images":[
+        "https://dea154aeb528bee620f5-799733fd03b9298a9f65fee6178f3d08.ssl.cf1.rackcdn.com/pix_3_106230_243253287_5d238e801915a.jpg"
+        ],
+      "punctuation": "8",
+      "latitude":4.598354120088826,
+      "longitude": -74.07422721707395
+    },
+    {
+      "title": "Antigua Santafé",
+      "description": "Cl. 11 ##6-20, Bogotá",
+      "schedule":"Lunes-Sabado 7:00am - 9:00pm",
+      "completedesc": "Puedes venir a este restaurante después de visitar Museo de la Independencia Casa del Florero. La cocina colombiana es algo que hay que probar en El mejor ajiaco del mundo - Antigua Santafe. Este lugar te agradará con su sabroso ajiaco, su tierno rape y su generoso laing.La estupenda ubicación de este lugar hace que llegar a él incluso en hora punta sea muy sencillo. Muchos visitantes indican que los camareros y camareras son de confianza. Su sofisticado servicio es prueba del alto nivel de calidad de este restaurante. Aquí vas a pagar unos precios justos. Google le ha dado un 4,5, lo que indica que puedes elegir El mejor ajiaco del mundo - Antigua Santafe para pasar un rato agradable.",
+      "image": "https://www.yaamava.com/sites/default/files/2021-09/Hong_Bao_1080x1080_4_0.jpg",
+      "images":[
+         "https://www.yaamava.com/sites/default/files/2021-09/Hong_Bao_1080x1080_4_0.jpg"
+        ],
+      "punctuation": "7",
+      "latitude":4.598143048640062, 
+      "longitude": -74.07419577844483
+    },
+    {
+      "title": "90calentados",
+      "description": "Carrera 14 #98-73, Bogotá",
+      "schedule":"Lunes-Sabado 9:00am - 4:00pm",
+      "completedesc": "Quizá no tienen noventa tipos de calentado como dice el nombre, pero sí hay varias opciones que pueden antojarlo. Está el Ranchero, que viene con lomo picado, chorizo, morcilla, papa, maíz, cebolla y huevo, o el Mediterráneo, con cerdo, lentejas, aceitunas negras, pimentón, cebolla, cilantro y huevo. Desde $8.000 encontrará calentados que lo dejarán satisfecho a la hora de almorzar y no le dejarán espacio ni para el postre. Y si usted no es de tanto apetito, puede pedir medias porciones desde $5.000.",
+      "image": "https://10619-2.s.cdn12.com/rests/original/104_510062021.jpg",
+      "images":[
+        "https://10619-2.s.cdn12.com/rests/original/104_510062021.jpg"
+        ],
+      "punctuation": "7",
+      "latitude":4.68375846594111,
+      "longitude": -74.04742732077305
+    },
+    {
+      "title": "El corrientazo",
+      "description": "Cl. 49a #68-87, Bogotá",
+      "schedule":"Lunes-Sabado 7:00am - 4:00pm",
+      "completedesc": "Este restaurante te ofrece estupendos platos de la cocina colombiana. Vas a disfrutar con su genial servicio. RESTAURANTE PIQUETEADERO EL CORRIENTAZO ha sido galardonado con un 4,2 de acuerdo con el baremo de valoraciones de Google.",
+      "image": "https://dea154aeb528bee620f5-799733fd03b9298a9f65fee6178f3d08.ssl.cf1.rackcdn.com/pix_3_106230_243253287_5d238e801915a.jpg",
+      "images":[
+        "https://dea154aeb528bee620f5-799733fd03b9298a9f65fee6178f3d08.ssl.cf1.rackcdn.com/pix_3_106230_243253287_5d238e801915a.jpg"
+        ],
+      "punctuation": "8",
+      "latitude":4.660088550765963,
+      "longitude": -74.10039342871687
+    },
+    {
+      "title": "Tres Gatos",
+      "description": "Calle 8 No. 5 - 91, Bogotá",
+      "schedule":"Lunes-Sabado 1:30pm - 10:00pm",
+      "completedesc": "Visitar Museo Arqueologico requiere tiempo y esfuerzo, así que, si luego tienes hambre, visita este café y disfruta de una sabrosa comida. Los usuarios de Google aprecian Café Cultural TRES GATOS: le han dado 4,3 estrellas.",
+      "image": "https://www.yaamava.com/sites/default/files/2021-09/Hong_Bao_1080x1080_4_0.jpg",
+      "images":[
+        "https://www.yaamava.com/sites/default/files/2021-09/Hong_Bao_1080x1080_4_0.jpg"
+        ],
+      "punctuation": "9",
+      "latitude":4.595173921570532,
+      "longitude": -74.07585808954332
+    },
+    {
+      "title": "La Esquina del Sabor",
+      "description": "Av.2 #26 Sur-30 a 26, Bogotá",
+      "schedule":"Lunes-Sabado 10:00am - 11:00pm",
+      "completedesc": "Este restaurante bien pudiera recomendarse solo por su atrayente rape. La mayoría de usuarios estiman que el servicio es eficiente. Pagarás unos precios sorprendentes cuando comas en La Esquina del Sabor. Este lugar ha logrado un 4,6 según el baremo de valoraciones de Google.",
+      "image": "https://10619-2.s.cdn12.com/rests/original/104_510062021.jpg",
+      "images":[
+        "https://10619-2.s.cdn12.com/rests/original/104_510062021.jpg"
+        ],
+      "punctuation": "7",
+      "latitude":4.674883780063475,
+      "longitude": -74.11668278214403
+    }
   ]
 }
